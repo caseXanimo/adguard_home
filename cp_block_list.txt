@@ -1,0 +1,7 @@
+||*.in-addr.arpa
+||*self.events.data.microsoft.com
+||*adserv.com^$important
+||*.ymadserv.com^$important
+||*.magsrv.*/click.php^
+||*.lustnav.*^
+||*.cyprusflirt.*^
