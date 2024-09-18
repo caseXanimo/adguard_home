@@ -1,10 +1,8 @@
 @@||googlevideo.com^$important
-@@||usage-reporter.duplicati.com^$important
+@@||www.facebook.com$important
 @@||web.facebook.com^$important
 @@||graph.facebook.com^$important
 @@||eu-pconnect12.coolkit.cc^$important
 @@||mobile.events.data.microsoft.com^$important
-@@||newrelic.com^
 @@||brave.com^$important
-@@||www.facebook.com$important
 @@||eset.com^$important
