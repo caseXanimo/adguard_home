@@ -7,11 +7,4 @@
 @@||newrelic.com^
 @@||brave.com^$important
 @@||www.facebook.com$important
-@@||forum.eset.com^$important
-@@||go.eset.com^$important
-@@||support.eset.com^$important
-@@||epns.eset.com^$important
-@@||edf.eset.com^$important
-@@||ts.eset.com^$important
-@@||help.eset.com^$important
-@@||pico.eset.com^$important
+@@||eset.com^$important
