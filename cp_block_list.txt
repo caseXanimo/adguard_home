@@ -5,3 +5,4 @@
 ||*.magsrv.*/click.php^
 ||*.lustnav.*^
 ||*.cyprusflirt.*^
+||*.bing.com^$important
