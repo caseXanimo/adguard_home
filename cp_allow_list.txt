@@ -8,3 +8,4 @@
 @@||eset.com^$important
 @@||bungie.net^$important
 @@||aliexpress.com^$important
+@@||*tiktok*.com^$important
