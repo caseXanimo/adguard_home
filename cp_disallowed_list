@@ -1,0 +1,11 @@
+# The contents of this list must be copied into:
+# Settings > DNS Settings > Disallowed Domains.
+
+# Doing so will prevent the domains to appear into the queries
+# hence having cleaners results in your dashboard.
+# Additionally feel free to update this list accordingly.
+
+version.bind
+id.server
+hostname.bind
+logs.netflix.com
