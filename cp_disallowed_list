@@ -1,5 +1,5 @@
 # The contents of this list must be copied into:
-# Settings > DNS Settings > Disallowed Domains.
+# Settings > DNS Settings > Disallowed Domains > Save Configuration.
 
 # Doing so will prevent the domains to appear into the queries
 # hence having cleaners results in your dashboard.
