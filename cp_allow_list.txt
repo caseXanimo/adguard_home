@@ -6,3 +6,5 @@
 @@||mobile.events.data.microsoft.com^$important
 @@||brave.com^$important
 @@||eset.com^$important
+@@||bungie.net^$important
+@@||aliexpress.com^$important
