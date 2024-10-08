@@ -9,3 +9,4 @@
 @@||bungie.net^$important
 @@||aliexpress.com^$important
 @@||*tiktok*.com^$important
+@@||*apple*.com^$important
