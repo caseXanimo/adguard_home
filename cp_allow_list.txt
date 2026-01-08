@@ -10,3 +10,10 @@
 @@||aliexpress.com^$important
 @@||*tiktok*.com^$important
 @@||*apple*.com^$important
+@@||*.ewelink.cc^$important
+@@||*.ewelink.me^$important
+@@||*.ewelinkcloud.com^$important
+@@||api.coolkit.cc^$important
+@@||api.coolkit.cn^$important
+@@||eu-api.coolkit.cc^$important
+@@||us-api.coolkit.cc^$important
